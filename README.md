@@ -1,6 +1,8 @@
 Code Sample: empresa-empleados-problem
 ======================================
 
+![Build Status](https://travis-ci.org/nicodebin/empresa-empleados-problem.svg?branch=master)
+
 Ejercicio:
  
 Crear las clases necesarias para administrar los **Empleados** de una **Empresa**. Cada empleado puede ser de distinto tipo como ser, **Programador**, **Diseñador**.
